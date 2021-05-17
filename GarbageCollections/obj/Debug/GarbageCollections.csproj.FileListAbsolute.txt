@@ -1,0 +1,7 @@
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\bin\Debug\GarbageCollections.exe.config
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\bin\Debug\GarbageCollections.exe
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\bin\Debug\GarbageCollections.pdb
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\obj\Debug\GarbageCollections.csprojAssemblyReference.cache
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\obj\Debug\GarbageCollections.csproj.CoreCompileInputs.cache
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\obj\Debug\GarbageCollections.exe
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\GarbageCollections\obj\Debug\GarbageCollections.pdb

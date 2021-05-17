@@ -1,0 +1,7 @@
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\bin\Debug\RefelctionDemoProject.exe.config
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\bin\Debug\RefelctionDemoProject.exe
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\bin\Debug\RefelctionDemoProject.pdb
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\obj\Debug\ReflectionDemoProject.csprojAssemblyReference.cache
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\obj\Debug\ReflectionDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\obj\Debug\RefelctionDemoProject.exe
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\RefelctionDemoProject\obj\Debug\RefelctionDemoProject.pdb

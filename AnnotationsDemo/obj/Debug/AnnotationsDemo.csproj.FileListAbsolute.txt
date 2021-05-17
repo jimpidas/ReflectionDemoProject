@@ -1,0 +1,7 @@
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\bin\Debug\AnnotationsDemo.exe.config
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\bin\Debug\AnnotationsDemo.exe
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\bin\Debug\AnnotationsDemo.pdb
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\obj\Debug\AnnotationsDemo.csprojAssemblyReference.cache
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\obj\Debug\AnnotationsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\obj\Debug\AnnotationsDemo.exe
+C:\Users\Dell\DotNetProjects\RefelctionDemoProject\AnnotationsDemo\obj\Debug\AnnotationsDemo.pdb
